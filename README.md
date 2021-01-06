@@ -1,6 +1,9 @@
+<img align="right" src="/.github/undraw_feeling_proud_qne1.svg" width="300"/>
+
 ### Olá 👋
 
 Me chamo Henrique estudo programação e sou apaixonado pela área de tecnologia
+
 
 <!--
 **Rickemm/Rickemm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
