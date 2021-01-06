@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá 👋
+
+Me chamo Henrique estudo programação e sou apaixonado pela área de tecnologia
 
 <!--
 **Rickemm/Rickemm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
